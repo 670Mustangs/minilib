@@ -6,7 +6,11 @@ edu.wpi.first.wpilibj.util
 edu.wpi.first.wpilibj2.command
 edu.wpi.first.wpilibj2.command.button
 edu.wpi.first.wpiutil.math
+frc.team670.pi
+frc.team670.pi.tests
 frc.team670.robot
 frc.team670.robot.commands.drive
+frc.team670.robot.commands.examples
 frc.team670.robot.subsystems
 frc.team670.robot.utils
+pi.testing
