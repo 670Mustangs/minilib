@@ -13,3 +13,8 @@ frc.team670.robot
 frc.team670.robot.commands.drive
 frc.team670.robot.subsystems
 frc.team670.robot.utils
+jpigpio
+jpigpio.devices
+jpigpio.impl
+jpigpio.packet
+jpigpio.sensors
